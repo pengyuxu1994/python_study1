@@ -1,0 +1,68 @@
+cmd
+活动连接
+
+  协议  本地地址          外部地址        状态
+  TCP    127.0.0.1:5354         LAPTOP-L9586QSI:49677  ESTABLISHED
+  TCP    127.0.0.1:5354         LAPTOP-L9586QSI:49680  ESTABLISHED
+  TCP    127.0.0.1:49677        LAPTOP-L9586QSI:5354   ESTABLISHED
+  TCP    127.0.0.1:49680        LAPTOP-L9586QSI:5354   ESTABLISHED
+  TCP    127.0.0.1:50246        LAPTOP-L9586QSI:50247  ESTABLISHED
+  TCP    127.0.0.1:50247        LAPTOP-L9586QSI:50246  ESTABLISHED
+  TCP    127.0.0.1:50248        LAPTOP-L9586QSI:50249  ESTABLISHED
+  TCP    127.0.0.1:50249        LAPTOP-L9586QSI:50248  ESTABLISHED
+  TCP    127.0.0.1:50250        LAPTOP-L9586QSI:50251  ESTABLISHED
+  TCP    127.0.0.1:50251        LAPTOP-L9586QSI:50250  ESTABLISHED
+  TCP    127.0.0.1:53924        LAPTOP-L9586QSI:54530  ESTABLISHED
+  TCP    127.0.0.1:53925        LAPTOP-L9586QSI:53926  ESTABLISHED
+  TCP    127.0.0.1:53926        LAPTOP-L9586QSI:53925  ESTABLISHED
+  TCP    127.0.0.1:54530        LAPTOP-L9586QSI:53924  ESTABLISHED
+  TCP    192.168.1.10:49710     52.139.250.253:https   ESTABLISHED
+  TCP    192.168.1.10:49843     a104-74-20-70:https    ESTABLISHED
+  TCP    192.168.1.10:54214     40.90.185.223:https    TIME_WAIT
+  TCP    192.168.1.10:54799     40.90.185.223:https    ESTABLISHED
+  TCP    192.168.1.10:54800     111.30.138.165:http    TIME_WAIT
+  TCP    192.168.1.10:54805     111.30.138.165:http    TIME_WAIT
+  TCP    192.168.1.10:54814     111.30.138.165:http    TIME_WAIT
+  TCP    192.168.1.10:54815     121.51.154.28:36688    TIME_WAIT
+  TCP    192.168.1.10:54820     111.13.34.179:http     ESTABLISHED
+  TCP    192.168.1.10:54821     121.51.131.86:36688    TIME_WAIT
+  TCP    192.168.1.10:54839     111.13.235.1:http      TIME_WAIT
+  TCP    192.168.1.10:54842     tsa01s07-in-f13:https  SYN_SENT
+  TCP    192.168.1.10:54843     tsa01s07-in-f13:https  SYN_SENT
+  TCP    [2409:8a04:421d:a9b0:a136:76ff:5ed8:e013]:52827  [2402:4f00:4001:185::57]:https  CLOSE_WAIT
+  TCP    [2409:8a04:421d:a9b0:a136:76ff:5ed8:e013]:54867  tsa03s06-in-x0e:https  SYN_SENT
+  TCP    [2409:8a04:421d:a9b0:a136:76ff:5ed8:e013]:54868  tsa03s06-in-x0e:https  SYN_SENT
+cmd
+Windows IP 配置
+
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+以太网适配器 以太网 3:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+无线局域网适配器 本地连接* 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+无线局域网适配器 本地连接* 4:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   IPv6 地址 . . . . . . . . . . . . : 2409:8a04:421d:a9b0:80fb:c82:196f:9c8c
+   临时 IPv6 地址. . . . . . . . . . : 2409:8a04:421d:a9b0:a136:76ff:5ed8:e013
+   本地链接 IPv6 地址. . . . . . . . : fe80::80fb:c82:196f:9c8c%12
+   IPv4 地址 . . . . . . . . . . . . : 192.168.1.10
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   默认网关. . . . . . . . . . . . . : fe80::1%12
+                                       192.168.1.1
